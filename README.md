@@ -1,1 +1,1 @@
-![](Almost-Awake/Images/profileAnimation1.gif)
+![](https://github.com/Almost-Awake/Almost-Awake/blob/main/Images/profileAnimation1.gif)
