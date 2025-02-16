@@ -1,2 +1,3 @@
-# AlmostAwake
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmostAwake)](https://github.com/anuraghazra/github-readme-stats)
+## Current Projects:
+- TestBot code for testing sensors for FTC
+- Refining 2024 Talons Code to help next season
