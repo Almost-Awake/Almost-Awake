@@ -1,2 +1,2 @@
 # AlmostAwake
-<img alt="Statistics" align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=AlmostAwake&show_icons=true&theme=shadow_red"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmostAwake)](https://github.com/anuraghazra/github-readme-stats)
